@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="100%" src="profile.png" alt="Sean Paul Banner" />
+  <img width="100%" src="banner.jpg" alt="Sean Paul Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=F5A623&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Video+Editor+%26+Video+Editor;Visual+Graphics+Creator;Exploring+AI+Technology;Always+Building+and+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=24&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;AI+Enthusiast+%26+Video+Editor;Graphics+Designer;Always+Building+and+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ## 🎯 About Me
