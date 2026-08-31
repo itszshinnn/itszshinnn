@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Video+Editor;Graphics+Designer;Passionate+about+Code+and+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=880&lines=Full+Stack+Developer;AI+Enthusiast;Video+Editor;Graphics+Designer;Passionate+about+Code+and+Design" alt="Typing SVG" />
 </p>
 
 <h2 align="center">🛠️ My Tech Stack</h2>
