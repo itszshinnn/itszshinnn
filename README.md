@@ -33,6 +33,8 @@
   <img src="icons/photoshop.svg" alt="Photoshop" width="45" height="45" />
 </p>
 
+<br />
+
 </td>
 <td width="440" valign="top" align="center">
 
@@ -63,6 +65,10 @@
   <img src="icons/vercel.svg" alt="Vercel" width="45" height="45" />
 </p>
 
+<br />
+
 </td>
 </tr>
 </table>
+
+<br />
