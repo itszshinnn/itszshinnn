@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="assets/banner.png" alt="Sean Paul Banner" />
+  <img width="100%" src="profile.png" alt="Sean Paul Banner" />
 </p>
 
 <p align="center">
