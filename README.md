@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="440" valign="top">
 
 ### 🤖 AI
 <p align="left">
@@ -34,7 +34,7 @@
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="440" valign="top">
 
 ### ⚡ Workflow
 <p align="left">
