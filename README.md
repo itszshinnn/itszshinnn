@@ -105,5 +105,5 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="footer.jpg" alt="Footer" />
+  <img width="100%" src="footer.png" alt="Footer" />
 </p>
