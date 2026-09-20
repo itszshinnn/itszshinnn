@@ -101,7 +101,7 @@
 <br />
 
 <p align="center">
-  <em>"Live. Laugh. Design. Edit. Code. Repeat."</em>
+  <em>"Design. Edit. Code. Repeat."</em>
 </p>
 
 <p align="center">
