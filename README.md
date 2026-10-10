@@ -91,9 +91,9 @@
 
 <br />
 
-<p align="center">
+<h3 align="center">
   <em>"Design. Edit. Code. Repeat."</em>
-</p>
+</h3>
 
 <p align="center">
   <img width="100%" src="footer.jpg" alt="Footer" />
