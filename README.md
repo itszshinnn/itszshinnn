@@ -71,15 +71,6 @@
 </tr>
 </table>
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itszshinnn&theme=radical&hide_border=true&background=18181B&ring=8E75B2&fire=F5A623&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=A1A1AA&currStreakLabel=8E75B2" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itszshinnn&theme=tokyonight" alt="GitHub Profile Details" />
-</p>
 
 <h2 align="center">🤝 Let's Connect and Collaborate</h2>
 
